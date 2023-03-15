@@ -12,4 +12,4 @@ function wrapAdjective(flair = `*`){
         return `You are ${flair}${adjective}${flair}!`;
     };
 }
-wrapAdjective(`||`)(`a dedicated programmer`)
+wrapAdjective(`||`)(`a dedicated programmer`);
